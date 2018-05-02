@@ -131,7 +131,7 @@ void ImageCreator::create() {
 		addImage(getImage(i));
 	}
 
-	//smoothingImage(m_rgbImage, 40);
+	smoothingImage(m_rgbImage, 40);
 	WriteToBMP((uint8_t*)m_rgbImage, "output.bmp");
 }
 
