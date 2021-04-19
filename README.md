@@ -1,5 +1,5 @@
 # ImaginationHelper
-This is an automated version of the method of finding inspiration for artists. It's blends pictures and returns abstract color spots in which you can find new ideas for your arts.
+This program blends pictures in different ways and returns abstract color spots in which you can find new ideas for your arts.
 
 # Dependencies
 - jpeg.lib
